@@ -3,7 +3,7 @@
 The RQB acronym stands for **Resource and Query Builder** Specification. This project is dedicated to explain the process of creating my documented-focused site with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
 <div align="center">
-  <img src="/docs/assets/images/rocket%20rqb.png" alt="RQB Logo" width="600">
+  <img src="/docs/assets/images/rqb_rocket.png" alt="RQB Logo" width="600">
 </div>
 
 ## Prerequisites

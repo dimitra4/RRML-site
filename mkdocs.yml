@@ -5,8 +5,8 @@ theme:
   name: material
   font:
     code: Red Hat Mono
-  logo: assets/images/rocket rqb.png
-  favicon: assets/images/rocket rqb.png
+  logo: assets/images/rqb_rocket.png
+  favicon: assets/images/rqb_rocket.png
   palette:
     primary: light blue
     accent: orange
