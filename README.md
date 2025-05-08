@@ -2,7 +2,9 @@
 
 The RQB acronym stands for **Resource and Query Builder** Specification. This project is dedicated to explain the process of creating my documented-focused site with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 
-![RQB Logo](/docs/assets/images/rocket%20rqb.png)
+<div align="center">
+  <img src="/docs/assets/images/rocket%20rqb.png" alt="RQB Logo" width="700">
+</div>
 
 Go to Visual Studio settings and add the below to the json file.
 This is YAML validation for the mkdocs material theme and functionality.
