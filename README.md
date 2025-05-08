@@ -6,6 +6,25 @@ The RQB acronym stands for **Resource and Query Builder** Specification. This pr
   <img src="/docs/assets/images/rocket%20rqb.png" alt="RQB Logo" width="600">
 </div>
 
+## Prerequisites
+
+These are the *prerequisites* you’ll need to have installed if you want to run this project:
+
+- [Python](https://www.python.org/downloads/) 
+    - [pip](https://pip.pypa.io/en/stable/installation/) - the Python package manager (included by default in Python 3.4 and later)
+    - [pyyaml](https://pypi.org/project/PyYAML/) - a Python YAML parser and emitter
+    - [pydantic](https://docs.pydantic.dev/latest/) - a Python data validation library
+- [Jinja](https://jinja.palletsprojects.com/en/stable/) - a web template engine that allows writing code similar to Python syntax. 
+    - [Install Jinja2](https://jinja.palletsprojects.com/en/stable/intro/#installation) - most recent Jinja version
+- [Visual Studio Code](https://code.visualstudio.com/) - or any other IDE of your choice
+
+**Tutorials**
+
+Material for MkDocs:
+- [mkdocs-material documentation](https://jameswillett.dev/getting-started-with-material-for-mkdocs/#collapsible-admonitions)
+- [mkdocs-material Youtube video](https://www.youtube.com/watch?v=xlABhbnNrfI)
+
+
 Go to Visual Studio settings and add the below to the json file.
 This is YAML validation for the mkdocs material theme and functionality.
 

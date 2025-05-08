@@ -1,6 +1,5 @@
 # Constant Variables (Enums) 
 
-[tutorial mkdocs-material](https://jameswillett.dev/getting-started-with-material-for-mkdocs/#collapsible-admonitions)
 
 ### `ArithmeticOperator`
 Enum representing the basic arithmetic operators.
