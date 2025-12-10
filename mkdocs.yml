@@ -8,7 +8,7 @@ theme:
   logo: assets/images/rrms_v3.png
   favicon: assets/images/rrms_logo.png
   palette:
-    primary: blue grey
+    primary: dark blue
     accent: orange
   features:
     - navigation.footer
