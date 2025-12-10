@@ -32,13 +32,14 @@ plugins:
 
 # Where your markdown pages live
 docs_dir: docs
+site_dir: site      # build output goes to ./site (temporary)
 
 # Pages shown in the left navigation
 nav:
   - Overview: index.md
-  - Model: 
-      Definition of Resources: ResourceMain.md
-      Definition of mapping Resources to Database: ResourceToDbMain.md
+  - Model:
+    - Definition of Resources: ResourceMain.md
+    - Definition of mapping Resources to Database: ResourceToDbMain.md
   - YAML Examples: Examples.md
 
 markdown_extensions:
